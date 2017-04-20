@@ -1,0 +1,21 @@
+[user]
+	name = mike
+	email = michael.roberts.mail@gmail.com
+[alias]
+# hub
+    pr = pull-request
+
+# git-flow
+    fs = flow feature start
+    bs = flow bugfix start
+    rs = flow release start
+    hs = flow hotfix start
+
+    fp = flow feature publish
+    bp = flow bugfix publish
+    rp = flow release publish
+    hp = flow hotfix publish
+
+    rf = flow release finish
+    hf = flow hotfix finish
+
